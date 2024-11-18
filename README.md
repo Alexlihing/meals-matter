@@ -1,5 +1,6 @@
 ## MealsMatter
 Our submission for Purdue Hello World 2024 
+
 Authors: Alex Li, Sanjay Vijay, Rui Meng
 
 ## Inspiration
