@@ -1,5 +1,6 @@
 ## MealsMatter
-Our submission for Purdue Hello World 2024
+Our submission for Purdue Hello World 2024 
+Authors: Alex Li, Sanjay Vijay, Rui Meng
 
 ## Inspiration
 Many restaurants, cafes, and bakeries simply waste surplus food rather than use it to support people suffering from food insecurity. We created MealsMatter to combat this issue and connect potential food providers with those in need.
